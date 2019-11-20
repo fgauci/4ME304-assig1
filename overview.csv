@@ -1,0 +1,13 @@
+﻿Social Media Tools,Tool Category,Use,Interaction [2],SM Type [2],Size of Consumer Population [2],Size of Producer Populatation [2],Pace of Interaction [2],Granularity of Control [2]
+Facebook Messenger,Messaging,Personal,Conversational,Instant Messaging,Small,Small,Sync,Coarse
+Signal,Messaging,Personal,Conversational,Instant Messaging,Small,Small,Sync,Coarse
+Slack,Messaging,Professioanl,Conversational,Instant Messaging,Small,Small,Sync,Coarse
+Instagram,Sharing,Personal,Social Sharing ,Visual Media Sharing,Medium,Small,Async,Coarse
+Google Meet,Collaborating,Professional,Conversational,Video Conferencing,Small,Small,Sync,Coarse
+Zoom,Collaborating,Professional/Educational,Conversational,Video Conferencing,Small,Small,Sync,Coarse
+YouTube,Sharing,Personal,Social Sharing ,Visual Media Sharing,Large,Small,Async,Coarse
+LucidChart,Collaborating,Professional/Educational,Collaborative Authoring,Shared Documents,Small,Small,Sync/Async,Fine
+Gmail,Messaging,Personal/Professional/Educational,Conversational,Email,Small,Small,Async,Coarse
+LinkedIn,Networking,Personal/Professional,Networking,Professional Networking,Medium,Small,Async,Coarse
+Moodle,Discussion,Educational,Conversational,Forum ,Large,Large,Async,Medium
+Figma,Collaborating,Professional/Educational,Collaborative Authoring,Shared Documents,Small,Small,Sync/Async,Fine

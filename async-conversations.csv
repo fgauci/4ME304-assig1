@@ -1,0 +1,10 @@
+﻿day,email_type,num_email_rec,num_email_sent,calendar_ics,pdf,png,docx,xlsx
+11-11-19,work,11,2,3,0,0,1,0
+11-11-19,personal,1,0,0,0,0,0,0
+11-12-19,work,14,8,0,0,0,0,1
+11-13-19,work,4,3,0,1,1,0,0
+11-14-19,work,2,0,0,0,0,0,0
+11-15-19,work,8,0,2,0,0,0,0
+11-15-19,personal,2,0,0,0,0,0,0
+11-16-19,personal,1,0,1,0,0,0,0
+11-17-19,personal,1,0,0,1,0,0,0
